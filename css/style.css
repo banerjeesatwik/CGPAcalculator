@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: #F5EDDC;
+    background-image: url("https://images.alphacoders.com/206/206871.jpg");
+    background-size: 100%;
+}
+.meow{
+    outline: none;
+    font-size: 1.25rem;
+    line-height: .5;
+    font-weight: 30;
+    color: #080808;
+    border-radius: 15px;
+    display: filled;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    background-color: #FF1E00;
+    transition: all ease-in-out 0.02s;
+    cursor: pointer;
+}
+.textcol
+{
+    color: #FFF9CA;
+    text-shadow: 3px 0 #000000
+}
+.textcol1
+{
+    font-size: 3rem;
+    color: #FFF38C;
+    text-shadow: 3px 0 #000000;
+}
+.textcol2
+{
+    font-size: 1.5rem;
+    color: #D4F6CC;
+    text-shadow: 3px 0 #000000
+}
